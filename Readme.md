@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ExampleHelper.cs](./CS/FreeLayoutModeExample/ExampleHelper.cs) (VB: [ExampleHelper.vb](./VB/FreeLayoutModeExample/ExampleHelper.vb))
+* [Form1.cs](./CS/FreeLayoutModeExample/Form1.cs) (VB: [Form1.vb](./VB/FreeLayoutModeExample/Form1.vb))
+* **[LayoutConverterHelper.cs](./CS/FreeLayoutModeExample/LayoutConverterHelper.cs) (VB: [LayoutConverterHelper.vb](./VB/FreeLayoutModeExample/LayoutConverterHelper.vb))**
+* [Program.cs](./CS/FreeLayoutModeExample/Program.cs) (VB: [Program.vb](./VB/FreeLayoutModeExample/Program.vb))
+<!-- default file list end -->
 # TabbedView - How to convert the default layout to a table one.
 
 
